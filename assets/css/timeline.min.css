@@ -1,10 +1,18 @@
-#timeline{
-	padding: 100px;
+#timeline {
+	padding-top: 50px;
 }
+
+
+.timeline .page-header{
+	padding-bottom:9px
+		;margin:40px 0 20px;
+	}
+
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
     position: relative;
+	padding-top: 100px;
 }
 
     .timeline:before {
