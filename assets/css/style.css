@@ -1484,7 +1484,7 @@ span.box1 {
     background-repeat: no-repeat;
     background-position: 50% 0;
     position: relative;
-    padding: 50px;
+	padding: 100px 50px 80px 55px;
 }
 
 .menu, .nav-tabs{
@@ -1507,8 +1507,6 @@ span.box1 {
 .homemade.parallax{
     background-color: rgba(13, 13, 13, 0.6); 
 }
-
-
 
 .ginasred{
 	color: #9e1c3e;
