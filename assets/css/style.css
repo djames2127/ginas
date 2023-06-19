@@ -1450,6 +1450,7 @@ span.box1 {
 }
 .story .img img {
   width: 90%;
+    padding-top: 6%
 }
 @media (min-width: 992px) {
   .story .img img {
